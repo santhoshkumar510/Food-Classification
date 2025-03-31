@@ -4,6 +4,7 @@ The project aims to build an image classification model that can accurately clas
 
 **STEPS:**
 **1.Data Loading and Preprocessing:**
+
 The Food101 dataset is loaded using TensorFlow Datasets (tensorflow_datasets).
 Images are preprocessed by resizing them to a consistent shape (224x224) and converting them to the appropriate data type (tf.float32).
 The dataset is split into training and testing sets.

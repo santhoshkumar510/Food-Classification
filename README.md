@@ -1,6 +1,6 @@
 **PROJECT GOAL:**
 
-The project aims to build an image classification model that can accurately classify images of food into 101 different categories. This is achieved using the Food101 dataset, TensorFlow, and Keras. It leverages the EfficientNetB0 model for its architecture.
+The project aims to build an image classification model using tensorflow that can accurately classify images of food into 101 different categories. This is achieved using the Food101 dataset, TensorFlow, and Keras. It leverages the EfficientNetB0 model for its architecture.
 
 **STEPS:**
 **1.Data Loading and Preprocessing:**                                                  

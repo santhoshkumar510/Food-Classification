@@ -33,5 +33,5 @@ The project aims to build an image classification model using tensorflow that ca
   *  **EfficientNetB0:** Utilizes a powerful pre-trained model known for its efficiency and accuracy.
   *  **Mixed Precision:** Employs mixed precision training to accelerate the process.
   *  **Data Augmentation**: Applies random transformations to training images to improve model robustness.
-  *  **eature Extraction & Fine-tuning:** Employs a two-stage training approach to optimize performance.
+  *  **Feature Extraction & Fine-tuning:** Employs a two-stage training approach to optimize performance.
   *  **Comprehensive Evaluation:** Assesses the model's performance using multiple metrics and visualizations.

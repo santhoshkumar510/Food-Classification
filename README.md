@@ -2,7 +2,7 @@
 
 The project aims to build an image classification model using tensorflow that can accurately classify images of food into 101 different categories. This is achieved using the Food101 dataset, TensorFlow, and Keras. It leverages the EfficientNetB0 model for its architecture.
 
-**STEPS:**
+**STEPS:**        
 **1.Data Loading and Preprocessing:**                                                  
   * The Food101 dataset is loaded using TensorFlow Datasets (tensorflow_datasets).
   * Images are preprocessed by resizing them to a consistent shape (224x224) and converting them to the appropriate data type (tf.float32).
